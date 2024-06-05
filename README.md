@@ -1,1 +1,7 @@
-# QuantumultX
+# QuantumultX 自用规则
+参考+借鉴了大佬们的配置
+不对文件作使用保证
+
+
+
+
